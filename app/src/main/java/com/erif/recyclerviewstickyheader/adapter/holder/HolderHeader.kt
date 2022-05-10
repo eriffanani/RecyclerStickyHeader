@@ -1,10 +1,10 @@
-package com.erif.recyclervviewstickyheader.adapter.holder
+package com.erif.recyclerviewstickyheader.adapter.holder
 
 import android.view.View
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.erif.recyclervviewstickyheader.R
-import com.erif.recyclervviewstickyheader.model.People
+import com.erif.recyclerviewstickyheader.R
+import com.erif.recyclerviewstickyheader.model.People
 
 class HolderHeader(itemView: View) : RecyclerView.ViewHolder(itemView) {
 

@@ -1,4 +1,4 @@
-package com.erif.recyclervviewstickyheader.model
+package com.erif.recyclerviewstickyheader.model
 
 data class People (
     var type: Int,

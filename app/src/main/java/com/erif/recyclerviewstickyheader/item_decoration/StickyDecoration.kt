@@ -1,4 +1,4 @@
-package com.erif.recyclervviewstickyheader.item_decoration
+package com.erif.recyclerviewstickyheader.item_decoration
 
 import android.graphics.Canvas
 import android.util.Log
@@ -7,10 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.erif.recyclervviewstickyheader.R
-import com.erif.recyclervviewstickyheader.adapter.holder.HolderHeader
-import com.erif.recyclervviewstickyheader.adapter.holder.HolderList
-import com.erif.recyclervviewstickyheader.model.People
+import com.erif.recyclerviewstickyheader.R
+import com.erif.recyclerviewstickyheader.adapter.holder.HolderHeader
+import com.erif.recyclerviewstickyheader.adapter.holder.HolderList
+import com.erif.recyclerviewstickyheader.model.People
 
 class StickyDecoration constructor(private val list: MutableList<People>): RecyclerView.ItemDecoration() {
 

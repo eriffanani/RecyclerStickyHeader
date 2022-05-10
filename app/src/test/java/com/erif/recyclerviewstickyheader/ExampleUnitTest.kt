@@ -1,4 +1,4 @@
-package com.erif.recyclervviewstickyheader
+package com.erif.recyclerviewstickyheader
 
 import org.junit.Test
 

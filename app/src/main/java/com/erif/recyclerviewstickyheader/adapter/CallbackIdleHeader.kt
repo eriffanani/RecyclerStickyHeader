@@ -1,4 +1,4 @@
-package com.erif.recyclervviewstickyheader.adapter
+package com.erif.recyclerviewstickyheader.adapter
 
 interface CallbackIdleHeader {
     fun hideHeader()

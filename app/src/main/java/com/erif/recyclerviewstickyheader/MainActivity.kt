@@ -1,12 +1,12 @@
-package com.erif.recyclervviewstickyheader
+package com.erif.recyclerviewstickyheader
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.erif.recyclervviewstickyheader.adapter.AdapterList
-import com.erif.recyclervviewstickyheader.item_decoration.StickyDecoration
-import com.erif.recyclervviewstickyheader.model.People
+import com.erif.recyclerviewstickyheader.adapter.AdapterList
+import com.erif.recyclerviewstickyheader.item_decoration.StickyDecoration
+import com.erif.recyclerviewstickyheader.model.People
 
 class MainActivity : AppCompatActivity() {
 

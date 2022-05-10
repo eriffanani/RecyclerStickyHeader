@@ -1,12 +1,12 @@
-package com.erif.recyclervviewstickyheader.adapter
+package com.erif.recyclerviewstickyheader.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.erif.recyclervviewstickyheader.R
-import com.erif.recyclervviewstickyheader.adapter.holder.HolderHeader
-import com.erif.recyclervviewstickyheader.adapter.holder.HolderList
-import com.erif.recyclervviewstickyheader.model.People
+import com.erif.recyclerviewstickyheader.R
+import com.erif.recyclerviewstickyheader.adapter.holder.HolderHeader
+import com.erif.recyclerviewstickyheader.adapter.holder.HolderList
+import com.erif.recyclerviewstickyheader.model.People
 
 class AdapterList: RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
